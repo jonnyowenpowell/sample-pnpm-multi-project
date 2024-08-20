@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      is-square:
+        specifier: ^1.0.1
+        version: 1.0.1
+
+packages:
+
+  is-square@1.0.1:
+    resolution: {integrity: sha512-Qsxa3oIWIZ1xiG+DSkwG6Tb2V6GqnEtTVG4M+UjBfsZLfqlzU0e5M6iT0O3LTwzPc8EfWKTByhj2a+vtjEPF2A==}
+
+snapshots:
+
+  is-square@1.0.1: {}
